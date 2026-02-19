@@ -20,3 +20,6 @@ The data that are from Kaggle are stored in `covid19_global_statistics_2026.csv`
 - **total_deaths**: The cumulative number of confirmed deaths.
 - **tests_per_million**: Total COVID-19 tests conducted per 1 million people.
 - **total_tests**: The cumulative number of tests performed.
+
+## Usage in EDA
+This dataset is used to analyze the correlation between testing infrastructure (`tests_per_million`) and the identification of cases (`cases_per_million`), as well as identifying outliers in global health responses.
